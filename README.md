@@ -73,3 +73,27 @@ and go to Config.CornerSellingDrugsList{
         EmoteMoving = true,
         EmoteLoop = true,
    }},
+
+**About Our Server**
+
+Welcome to our server! We proudly operate on our dedicated servers, catering to a community of over 200+ players. Our unique scripts set us apart, offering an exclusive experience unavailable elsewhere.
+
+Key Features:
+
+Custom Scripts: Uniquely crafted scripts tailored to enhance gameplay.
+Established Services: Our server boasts a well-established Police Enforcement, EMS Staff, and ongoing development of our Fire Department.
+Player-Driven Development: We prioritize player feedback to create innovative scripts, some of which set new standards in the gaming community.
+Innovative Gameplay: Experience our homeless script, enabling players to engage in activities like begging for money, playing music with boxes, and embodying the role of a homeless character. Additionally, you can run your own business or engage in window wiping activities.
+At our server, we're committed to providing an immersive and diverse experience for all our players. Join us and explore the endless possibilities in our dynamic gaming environment!
+
+**Contributions We welcome contributions from the community! If you'd like to contribute, please follow these guidelines:**
+
+Fork the repository.
+
+Create your branch: git checkout -b feature/yourchoice.
+
+Commit your changes: git commit -m 'Added some [feature]'.
+
+Push to the branch: git push origin feature/yourchoice.
+
+Open a pull request.
